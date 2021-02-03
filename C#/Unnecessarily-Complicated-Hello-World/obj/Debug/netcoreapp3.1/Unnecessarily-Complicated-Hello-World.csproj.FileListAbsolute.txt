@@ -1,0 +1,13 @@
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.exe
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.deps.json
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.runtimeconfig.json
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.runtimeconfig.dev.json
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.dll
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\bin\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.pdb
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.csprojAssemblyReference.cache
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.AssemblyInfoInputs.cache
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.AssemblyInfo.cs
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.dll
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.pdb
+C:\Users\Braedon\Documents\Unnecessarily-Complicated-Hello-World\Unnecessarily-Complicated-Hello-World\obj\Debug\netcoreapp3.1\Unnecessarily-Complicated-Hello-World.genruntimeconfig.cache
